@@ -33,5 +33,5 @@ For each query, print the number of multiples of $X$ in the array $arr$ that fal
 ```
 2
 ```
-**Examples:**  
+**Explaination:**  
 There are two numbers, 6 and 2, after the index 2 divisible by 2.
